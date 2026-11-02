@@ -67,13 +67,12 @@ I recommend dividing the 24 weeks into six learning phases.
 The following is the detailed weekly plan.
 
 # 4. Detailed Weekly Plan
-
-[Month 1 - Nov 2026 ](month1_plan.md)
-[Month 2 - Dec 2026 ](month2_plan.md)
-[Month 3 - Jan 2026 ](month3_plan.md)
-[Month 4 - Feb 2026 ](month4_plan.md)
-[Month 5 - Mar 2026 ](month5_plan.md)
-[Month 6 - Apr 2026 ](month6_plan.md)
+* [Nov 2026 (Month 1) Plan ](month1_plan.md)
+* [Dec 2026 (Month 2) Plan ](month2_plan.md)
+* [Jan 2026 (Month 3) Plan ](month3_plan.md)
+* [Feb 2026 (Month 4) Plan ](month4_plan.md)
+* [Mar 2026 (Month 5) Plan ](month5_plan.md)
+* [Apr 2026 (Month 6) Plan ](month6_plan.md)
 
 
 # 5. Daily Learningg Methodology – The Most Important Part
