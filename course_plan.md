@@ -67,6 +67,15 @@ I recommend dividing the 24 weeks into six learning phases.
 The following is the detailed weekly plan.
 
 # 4. Detailed Weekly Plan
+
+<details>
+<summary>Month 1</summary>
+
+{% include month1_plan.md %}
+
+</details>
+
+
 * [Nov 2026 (Month 1) Plan ](month1_plan.md)
 * [Dec 2026 (Month 2) Plan ](month2_plan.md)
 * [Jan 2026 (Month 3) Plan ](month3_plan.md)
