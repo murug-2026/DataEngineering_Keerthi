@@ -330,95 +330,80 @@ The learner should be able to explain every stage of the pipeline.
 
 <details>
 <summary>Month 4</summary>
-# MONTH 3: ETL and Power Query
+# MONTH 4: SQL and Database Engineering
 
-This is an extremely important phase because it bridges Excel analytics and Data Engineering.
+**Objective:** Develop the ability to work with relational databases and retrieve, combine and analyse data using SQL.
 
-**Objective:** Understand how data moves from source systems to reporting systems and build low-code ETL pipelines.
+SQL is non-negotiable for Data Engineering and BI roles. However, the emphasis should be on writing practical queries rather than software development.
 
-### Week 9: Data Engineering Fundamentals
+### Week 13: Database Fundamentals and Design
 
-| Day   | 3 Hours: Concepts + Documentation                          | 2 Hours: Hands-on Activity                      |
-| ----- | ---------------------------------------------------------- | ----------------------------------------------- |
-| Day 1 | Introduction to Data Engineering and its role in IT        | Study real-world data engineering architectures |
-| Day 2 | Data sources: databases, APIs, CSV, Excel and applications | Explore different data formats                  |
-| Day 3 | ETL vs ELT concepts                                        | Draw ETL and ELT workflows                      |
-| Day 4 | Batch processing vs real-time processing                   | Design batch-processing scenarios               |
-| Day 5 | Data warehouses, data lakes and data marts                 | Design a basic data architecture                |
-
-Deliverables:
-
-* Data engineering fundamentals document.
-* ETL architecture diagrams.
-* Data source comparison.
-
-### Week 10: Power Query Fundamentals
-
-| Day   | 3 Hours: Concepts + Documentation                   | 2 Hours: Hands-on Activity               |
-| ----- | --------------------------------------------------- | ---------------------------------------- |
-| Day 1 | Introduction to Power Query and query editor        | Import Excel and CSV data                |
-| Day 2 | Data types, filtering and column operations         | Clean datasets                           |
-| Day 3 | Removing duplicates, null handling and replacements | Perform data cleansing                   |
-| Day 4 | Splitting, merging and extracting columns           | Transform customer data                  |
-| Day 5 | Query steps and transformation logic                | Build a reusable transformation workflow |
+| Day   | 3 Hours: Concepts + Documentation                       | 2 Hours: Hands-on Activity     |
+| ----- | ------------------------------------------------------- | ------------------------------ |
+| Day 1 | Database, DBMS, RDBMS and database architecture         | Install and explore SQL Server |
+| Day 2 | Tables, records, fields and data types                  | Create database tables         |
+| Day 3 | Primary keys, foreign keys and constraints              | Create related tables          |
+| Day 4 | Relationships: one-to-one, one-to-many and many-to-many | Design a relational database   |
+| Day 5 | Database normalisation: 1NF, 2NF and 3NF                | Normalise a sample database    |
 
 Deliverables:
 
-* Power Query transformation workbook.
-* Transformation documentation.
+* Database design document.
+* Entity Relationship Diagram (ERD).
+* SQL database with related tables.
 
-### Week 11: Advanced Power Query
+### Week 14: SQL Fundamentals
 
-| Day   | 3 Hours: Concepts + Documentation               | 2 Hours: Hands-on Activity                  |
-| ----- | ----------------------------------------------- | ------------------------------------------- |
-| Day 1 | Merge Queries and dataset relationships         | Join customer and transaction datasets      |
-| Day 2 | Append Queries and combining files              | Combine monthly sales files                 |
-| Day 3 | Group By and conditional columns                | Create aggregated datasets                  |
-| Day 4 | Parameters, folder imports and reusable queries | Process multiple files from a folder        |
-| Day 5 | Query dependencies and refresh management       | Build a multi-stage transformation workflow |
+| Day   | 3 Hours: Concepts + Documentation            | 2 Hours: Hands-on Activity            |
+| ----- | -------------------------------------------- | ------------------------------------- |
+| Day 1 | SQL syntax and SELECT statements             | Retrieve records                      |
+| Day 2 | WHERE, AND, OR, NOT and comparison operators | Filter datasets                       |
+| Day 3 | ORDER BY, DISTINCT and TOP                   | Sort and retrieve records             |
+| Day 4 | INSERT, UPDATE and DELETE concepts           | Perform controlled data modifications |
+| Day 5 | SQL functions and NULL handling              | Solve practical business problems     |
 
 Deliverables:
 
-* Multi-source data transformation project.
-* Query dependency diagram.
+* SQL query workbook.
+* SQL fundamentals documentation.
 
-### Week 12: Building an End-to-End Low-Code ETL Pipeline
+### Week 15: Intermediate SQL
 
-| Day   | 3 Hours: Concepts + Documentation           | 2 Hours: Hands-on Activity                 |
-| ----- | ------------------------------------------- | ------------------------------------------ |
-| Day 1 | ETL pipeline architecture and requirements  | Design pipeline architecture               |
-| Day 2 | Data extraction and ingestion               | Import data from multiple sources          |
-| Day 3 | Transformation and validation               | Clean and standardise data                 |
-| Day 4 | Loading and output management               | Load transformed datasets                  |
-| Day 5 | Pipeline refresh, testing and documentation | Execute and validate the complete pipeline |
+| Day   | 3 Hours: Concepts + Documentation              | 2 Hours: Hands-on Activity      |
+| ----- | ---------------------------------------------- | ------------------------------- |
+| Day 1 | Aggregate functions: SUM, COUNT, AVG, MIN, MAX | Calculate business metrics      |
+| Day 2 | GROUP BY and HAVING                            | Generate summary reports        |
+| Day 3 | CASE WHEN statements                           | Create business classifications |
+| Day 4 | Date functions and string functions            | Perform date-based analysis     |
+| Day 5 | Subqueries and nested queries                  | Solve analytical problems       |
 
-**Major Project:**
+Deliverables:
 
-Build a low-code ETL pipeline:
+* Business SQL query library.
+* Monthly performance analysis.
 
-```text
-Source Files
-     |
-     v
-Excel / CSV / Database
-     |
-     v
-Power Query
-     |
-     v
-Data Cleaning
-     |
-     v
-Data Transformation
-     |
-     v
-Clean Data Repository
-     |
-     v
-Excel Reporting
-```
+### Week 16: Advanced SQL and Database Reporting
 
-The learner should be able to explain every stage of the pipeline.
+| Day   | 3 Hours: Concepts + Documentation                        | 2 Hours: Hands-on Activity              |
+| ----- | -------------------------------------------------------- | --------------------------------------- |
+| Day 1 | INNER JOIN and LEFT JOIN                                 | Combine customer and transaction tables |
+| Day 2 | RIGHT JOIN, FULL OUTER JOIN and self joins               | Solve multi-table problems              |
+| Day 3 | UNION and UNION ALL                                      | Combine datasets                        |
+| Day 4 | Common Table Expressions (CTEs) and views                | Build reusable queries and views        |
+| Day 5 | Window functions: ROW_NUMBER, RANK and aggregate windows | Perform advanced business analysis      |
+
+**Month 4 Major Project:**
+
+Create a Retail Management Database.
+
+The learner must:
+
+* Design the database.
+* Create tables and relationships.
+* Load sample data.
+* Write SQL queries.
+* Create views for reporting.
+* Generate business insights.
 
 ---
 
