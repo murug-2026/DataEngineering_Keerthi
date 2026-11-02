@@ -68,9 +68,15 @@ The following is the detailed weekly plan.
 
 # 4. Detailed Weekly Plan
 
+[Month 1 - Nov 2026 ](month1_plan.md)
+[Month 2 - Dec 2026 ](month2_plan.md)
+[Month 3 - Jan 2026 ](month3_plan.md)
+[Month 4 - Feb 2026 ](month4_plan.md)
+[Month 5 - Mar 2026 ](month5_plan.md)
+[Month 6 - Apr 2026 ](month6_plan.md)
 
 
-# 6. Daily Training Methodology – The Most Important Part
+# 5. Daily Learningg Methodology – The Most Important Part
 
 Daily activities should have good bifurcation between conceptual understanding, journaling and handson  
 
@@ -108,7 +114,7 @@ The idea is to develop the ability to explain technical concepts, not just execu
 
 ---
 
-# 7. Mandatory Artefacts and Portfolio Development
+# 6. Mandatory Artefacts and Portfolio Development
 
 **Every week must produce tangible evidence of learning.**
 
@@ -162,7 +168,7 @@ This repository becomes evidence of practical capability during interviews.
 
 ---
 
-# 8. Assessment and Performance Monitoring
+# 7. Assessment and Performance Monitoring
 
 
 | Assessment Area                | Weightage |
@@ -196,7 +202,7 @@ The remaining time can be used for feedback and corrections.
 
 ---
 
-# 9. What We Would Deliberately Avoid
+# 8. What We Would Deliberately Avoid
 
 We will avoid overwhelming with programming. We will discuss only these:
 
@@ -220,7 +226,7 @@ These are foundational to the target career path.
 
 ---
 
-# 10. Expected Outcome After Six Months
+# 9. Expected Outcome After Six Months
 
 At the end of the programme, you should be able to demonstrate the following:
 
@@ -254,7 +260,7 @@ These should be demonstrable, documented projects rather than simply course-comp
 
 ---
 
-# 11. My Final Recommendations: Three Improvements to Your Original Plan
+# 10. Main Considerations to Make this program Successful
 
 
 **1. Work on documentation from Week 1.**
@@ -273,7 +279,7 @@ The objective you should have is to build a portfolio progressively, not to comp
 
 ---
 
-## 12. Important: Enhance your day to day learngin with support of AI
+## 11. Important: Enhance your day to day learngin with support of AI
 
 Use AI tools liberally as learning assistants.
 
