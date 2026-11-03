@@ -94,25 +94,8 @@ Companies such as **Amazon, Google, Microsoft, Infosys, TCS and Accenture** oper
 - Database Performance Management
 - Data Backup and Recovery
 
-## 11. Enterprise Solutions and ERP
-- SAP Consulting
-- Oracle ERP
-- Salesforce Development
-- Microsoft Dynamics
-- ServiceNow
-- Enterprise Application Integration
-- ERP Implementation and Support
 
-## 12. IT Consulting and Business Technology
-- IT Consulting
-- Technology Consulting
-- Business Analysis
-- Digital Transformation
-- IT Project Management
-- Technology Strategy
-- IT Service Management
-
-## 13. UI/UX Design and Product Development
+## 11. UI/UX Design and Product Development
 - UI Design
 - UX Design
 - UX Research
@@ -121,7 +104,7 @@ Companies such as **Amazon, Google, Microsoft, Infosys, TCS and Accenture** oper
 - Product Ownership
 - Interaction Design
 
-## 14. Networking and Telecommunications
+## 12. Networking and Telecommunications
 - Network Engineering
 - Network Administration
 - Network Architecture
@@ -130,7 +113,7 @@ Companies such as **Amazon, Google, Microsoft, Infosys, TCS and Accenture** oper
 - Telecommunications Engineering
 - Network Operations
 
-## 15. Internet of Things (IoT) and Embedded Systems
+## 13. Internet of Things (IoT) and Embedded Systems
 - IoT Development
 - Embedded Software Development
 - Firmware Engineering
@@ -138,14 +121,7 @@ Companies such as **Amazon, Google, Microsoft, Infosys, TCS and Accenture** oper
 - Smart Device Development
 - Robotics Integration
 
-## 16. Blockchain and Web3
-- Blockchain Development
-- Smart Contract Development
-- Decentralised Applications (DApps)
-- Distributed Ledger Technology
-- Web3 Development
-
-## 17. Healthcare IT and Bioinformatics
+## 14. Healthcare IT and Bioinformatics
 - Healthcare Data Analytics
 - Health Informatics
 - Clinical Data Management
@@ -155,14 +131,6 @@ Companies such as **Amazon, Google, Microsoft, Infosys, TCS and Accenture** oper
 - Healthcare AI
 - Pharmaceutical Data Analytics
 
-## 18. IT Support and Technical Operations
-- Technical Support
-- IT Helpdesk
-- Desktop Support
-- System Administration
-- IT Operations
-- Application Support
-- IT Asset Management
 
 ---
 
