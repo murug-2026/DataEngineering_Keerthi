@@ -56,8 +56,6 @@ git branch
 
 Flow: **Working folder** → `git add` → **Staging area** → `git commit` → **Local repo** → `git push` → **Remote repo**
 
----
-
 #### Part 2: Hands-on Exercise
 
 **Goal:** add a new file, modify an existing file, commit, push, and verify the remote is up to date.
@@ -145,10 +143,6 @@ Also open the repository page on GitHub and confirm your commit appears.
 5. Click **Sync Changes** (or **Push**) to upload.
 6. The bottom-left status bar shows ↑ (commits to push) and ↓ (commits to pull). When both are `0`, you are in sync.
 
----
-
-## Part 3: Pull
-
 ### What is pull?
 
 `git pull` downloads new commits from the remote repository and merges them into your current local branch. It is the same as running `git fetch` followed by `git merge`.
@@ -169,8 +163,6 @@ git pull
 **Tip:** always pull *before* you start working and *before* you push, to avoid conflicts. If Git reports a **merge conflict**, open the conflicting files in VS Code, choose *Accept Current / Accept Incoming / Accept Both*, then `git add` and `git commit`.
 
 **In VS Code:** click the **Sync** icon in the status bar, or use *Source Control → ⋯ → Pull*.
-
----
 
 ## Part 4: VS Code Basics
 
@@ -283,13 +275,6 @@ This is a **sample Markdown file** created to practise headers, text, bulleted l
 | GitHub | Remote hosting | Free tier |
 | VS Code | Code editor | Free |
 
-## Conclusion
-
-Markdown is quick to write and works everywhere. *Practice makes perfect.*
-
----
-
-## Quick Command Summary
 
 ```bash
 git init                      # start a repo
