@@ -215,8 +215,6 @@ Open with `Ctrl+Shift+X`. Search, then click **Install**. Useful ones:
 - **Choose shell:** click the **˅** next to **+** and pick Bash, PowerShell, Command Prompt, Git Bash, etc.
 - **Close a terminal:** click the trash icon
 
----
-
 ## Part 5: Markdown Syntax
 
 ### Syntax cheat sheet
@@ -242,10 +240,6 @@ Normal text, **bold**, *italic*, ~~strikethrough~~ and `inline code`.
 [Link text](https://example.com)
 ![Image alt text](image.png)
 ````
-
-### Sample Markdown file (rendered)
-
-Save this as `sample.md` to practise.
 
 # Sample Markdown File
 
