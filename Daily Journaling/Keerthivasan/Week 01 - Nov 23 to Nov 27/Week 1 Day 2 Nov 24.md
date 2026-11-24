@@ -320,3 +320,37 @@ Relational databases (RDBMS) and data warehouses are built for fixed schemas:
 - **Better data quality control:** validation rules reduce errors and missing values.
 - **Faster training and easier interpretation:** results are simpler to explain, which matters in fields like healthcare and finance.
 - **Simple evaluation:** clear labels make accuracy, precision, and recall easy to measure.
+
+
+**1. How would you convert unstructured data (text, logs, images) into structured form?**
+
+The general idea is to extract meaningful fields from raw content and place them into a schema (rows and columns).
+
+Text (emails, reviews, clinical notes)
+- Cleaning: lowercase, remove noise, fix encoding.
+- Tokenization and normalization: split into words, apply stemming or lemmatization.
+- Named Entity Recognition (NER): pull out names, dates, drugs, diseases, locations.
+- Classification and sentiment analysis: assign labels such as positive/negative or topic.
+- Embeddings or TF-IDF: convert text into numeric vectors.
+
+**For example:**
+|Raw Text|Structured Output|
+|---|---|
+|Patient reports chest pain since 2 days, started aspirin| `Symptom = Chest Pain`, `Duration = 2 days`, `Drug = Aspirin`|
+
+**Logs**
+Parsing with regex or tools: Logstash, Fluentd, Python `re`.
+Split into fields: timestamp, log level, source, message.
+
+**For example:**
+
+**Raw Data**
+
+``2026-03-02 10:15:32 ERROR payment-service Timeout after 30s``
+
+**Output**
+
+|Timestamp|Level|Service|Message|
+|---|---|---|---|
+|2026-03-02 10:15:32|ERROR|Payment-service|Timeout after 30s|
+
