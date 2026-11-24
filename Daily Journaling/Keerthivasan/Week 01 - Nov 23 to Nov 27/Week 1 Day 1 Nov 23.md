@@ -56,9 +56,7 @@ git branch
 
 Flow: **Working folder** → `git add` → **Staging area** → `git commit` → **Local repo** → `git push` → **Remote repo**
 
-#### Part 2: Hands-on Exercise
-
-**Goal:** add a new file, modify an existing file, commit, push, and verify the remote is up to date.
+Adding a new file, modify an existing file, commit, push, and verify the remote is up to date.
 
 ### Setup (one time)
 
