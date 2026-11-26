@@ -126,7 +126,7 @@ Phone numbers (+91-9876543210 vs 09876543210)**
 |Time|24 Hours|19:30|
 ||12 Hour|7:30|
 |Currency|₹, $, €|₹100, $1, €0.85|
-|Phone numbers|International (E.164)|+91-9876543210|
+|Phone numbers|International (E.164)|+919876543210|
 ||With separators|+91-9876543210|
 ||National|09876543210|
 
